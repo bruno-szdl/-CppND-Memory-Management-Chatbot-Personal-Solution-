@@ -1,0 +1,3 @@
+/home/bruno/Documents/courses/c++/CppND-Memory-Management-Chatbot-Personal-Solution/build/CMakeFiles/rebuild_cache.dir
+/home/bruno/Documents/courses/c++/CppND-Memory-Management-Chatbot-Personal-Solution/build/CMakeFiles/membot.dir
+/home/bruno/Documents/courses/c++/CppND-Memory-Management-Chatbot-Personal-Solution/build/CMakeFiles/edit_cache.dir
