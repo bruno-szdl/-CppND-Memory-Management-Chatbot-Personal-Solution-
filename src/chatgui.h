@@ -17,8 +17,7 @@ private:
     //// STUDENT CODE
     ////
 
-    // Using unique smart pointer 
-    std::unique_ptr<ChatLogic> _chatLogic;
+    std::unique_ptr<ChatLogic> _chatLogic; // using unique smart pointer 
 
     ////
     //// EOF STUDENT CODE
