@@ -81,26 +81,16 @@ vector
 -
 string
 -
+memory
+-
 chatgui.h
 /home/bruno/Documents/courses/c++/CppND-Memory-Management-Chatbot-Personal-Solution/src/chatgui.h
-
-/home/bruno/Documents/courses/c++/CppND-Memory-Management-Chatbot-Personal-Solution/src/graphedge.cpp
-graphnode.h
-/home/bruno/Documents/courses/c++/CppND-Memory-Management-Chatbot-Personal-Solution/src/graphnode.h
-graphedge.h
-/home/bruno/Documents/courses/c++/CppND-Memory-Management-Chatbot-Personal-Solution/src/graphedge.h
 
 /home/bruno/Documents/courses/c++/CppND-Memory-Management-Chatbot-Personal-Solution/src/graphedge.h
 vector
 -
 string
 -
-
-/home/bruno/Documents/courses/c++/CppND-Memory-Management-Chatbot-Personal-Solution/src/graphnode.cpp
-graphedge.h
-/home/bruno/Documents/courses/c++/CppND-Memory-Management-Chatbot-Personal-Solution/src/graphedge.h
-graphnode.h
-/home/bruno/Documents/courses/c++/CppND-Memory-Management-Chatbot-Personal-Solution/src/graphnode.h
 
 /home/bruno/Documents/courses/c++/CppND-Memory-Management-Chatbot-Personal-Solution/src/graphnode.h
 vector
